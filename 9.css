@@ -1,0 +1,62 @@
+.top {
+    display: flex;
+}
+.h1 {
+    margin-left: 40px;
+}
+.p1 {
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.l1 {
+    margin-left: 800px;
+    margin-right: 25px;
+}
+.l2 {
+    margin-right: 25px;
+}
+.l3 {
+    margin-right: 25px;
+}
+.l4 {
+    margin-right: 25px;
+}.l5 {
+    margin-right: 25px;
+}
+.top2 {
+    margin-top: 40px;
+}
+.middle {
+    display: flex;
+}
+.block {
+    background: rgb(0,31,255);
+background: linear-gradient(124deg, rgba(0,31,255,1) 0%, rgba(0,155,255,1) 21%, rgba(0,245,255,1) 48%, rgba(0,251,160,1) 74%, rgba(0,255,106,1) 95%);
+width: 1700px;
+height: 600px;
+margin-left: -10px;
+margin-top: -20px;
+}
+iframe {
+    width: 500px;
+    height: 400px;
+    margin-left: 370px;
+}
+.middle2 {
+    background-color: white;
+    width: 200px;
+    width: 300px;
+    margin-left: 40px;
+}
+input {
+    padding: 5px 30px 5px 30px;
+}
+textarea {
+    padding: 0px 25px 30px 25px;
+}
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 60px 10px 60px;
+    border: none;
+}
